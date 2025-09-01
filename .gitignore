@@ -5,6 +5,6 @@ checkpoints/.cache/
 tests/__pycache__/
 checkpoints/*.pth
 checkpoints/*.model
-checkpoints/*/vocab
+checkpoints/*.vocab
 
 data/
